@@ -1,0 +1,3 @@
+{
+  "commands": ["create", "remove", "delete", "move", "dye", "rotate"]
+}

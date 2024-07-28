@@ -1,0 +1,5851 @@
+[
+  {
+    "text": "could you help me dye the dark yellow circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate two soft yellow sphere",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move some deep black square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye many light white square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate five green rectangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate the blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move the deep blue cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate a light green triangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove a deep blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create two light black box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate an dark black sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create three dark orange triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove an deep green box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate one soft blue sphere",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove four dark black box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move an red square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove a soft red circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create many light green rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move a deep green circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete the deep green square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete many light white cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove a soft blue sphere",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate four dark orange sphere",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate four soft white circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate some soft yellow triangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a few deep gray cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me remove the light gray circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create a light blue cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete the deep green square",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate a dark green triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye a deep green square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye the dark green square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete five white sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move five dark black square",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create two deep purple circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me remove some dark orange triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move a dark blue cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye the light green sphere",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete a dark white rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move the light orange sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move the gray rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you dye the soft black cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye the soft gray circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create the deep white square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me delete the light white sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate many orange square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye an deep blue sphere",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a light gray cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move five deep black cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate two green circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "create a deep green box",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move an red rectangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete a few red cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove a soft purple sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate the light white square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create the light orange triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move the soft purple box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye some deep purple rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove three purple circle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye an dark white rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move a soft yellow circle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create the blue square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a dark black circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move many deep gray cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete three deep white square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create a deep orange circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create many yellow circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove a red sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create a light black sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate three light purple cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create one light gray rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move four gray rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you remove five soft yellow cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete one deep blue square",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate a dark blue square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move a deep white rectangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create a few light yellow circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove two light gray square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create the light blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create two deep orange triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create some deep orange circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move three dark green triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you delete five deep black triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete several dark purple cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create a light orange cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove a soft black box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move a light white box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye a dark black circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye a dark green sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove one dark purple sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate the soft orange rectangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete the black square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create three blue cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move a blue square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye the orange cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate a yellow circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create the light white triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete one deep orange rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate a light white box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove many light purple rectangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create a orange triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create the deep white square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove the deep blue circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "create the soft white cube",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate three blue circle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove one deep blue triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete a blue square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove the purple triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you rotate a blue sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove five dark white triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create the dark black rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me dye a few deep purple cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove an orange circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye a deep yellow square",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete the yellow square",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete a dark red rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move the deep white rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create a deep yellow square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move four light gray cube",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create a dark black cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me delete a few soft blue triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate the dark gray rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove two light purple rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye the light blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move a purple box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you remove the light yellow square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye three light red triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move a soft red box",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate a dark purple cube",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you dye the soft gray box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate a light red rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate a light blue circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move some light yellow rectangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you delete an red triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create a deep red square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate some soft black square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate five green triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create a light white circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye the soft green square",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete an orange triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create several gray square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete a soft orange triangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create a few white rectangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move the soft purple rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move several dark yellow cube",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye several soft purple circle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me remove an light red triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate a light green box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete several purple square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye a light yellow square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you rotate one soft red rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create many dark white circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove a white sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete the dark orange circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove several soft white circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a blue cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you rotate the gray square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move the light white square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate a white box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete some white circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move two soft yellow sphere",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate four dark red rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me dye many deep blue rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create the red cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me remove the light black triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create a soft white cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move a deep blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete many deep black sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye one light gray sphere",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me dye an soft blue circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "create an green triangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate a soft gray box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move four soft green cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove the soft white square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move a dark green sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete the dark yellow box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move a blue rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you delete the deep yellow triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you delete a soft orange triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you rotate the light gray box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye the red cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create a light green cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "create the purple cube",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create a black sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate a deep black box",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me remove the gray sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete a soft white box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move the soft white rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate a dark white cube",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate many deep red triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove four soft gray rectangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move the light orange sphere",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate several light black rectangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete the light gray rectangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move some light purple box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you rotate the dark blue triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete the deep green cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye a yellow circle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye two soft red cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye a deep orange cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create the black triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove a soft purple sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate an soft green rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move several dark blue square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create a light blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move some soft orange rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete a deep gray triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate the dark purple rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove a deep purple square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move the dark white square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move many deep yellow rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move three light red sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye a deep green square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you dye the red circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate a few dark gray circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete the purple cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create the soft orange box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move many gray circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you dye a deep green sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye five orange circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye the dark orange rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate many soft yellow triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you remove two light purple box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete the light blue circle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye three soft white box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye a light black rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate two deep blue square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete the deep gray triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete a soft blue box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me move a deep yellow rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create an dark black triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove five deep green square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove the black square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me move four deep blue triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move several red square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye a deep blue sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create four deep purple box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye a dark green circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove some soft gray box",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye the deep white sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create a green square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move one soft red box",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove a white cube",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move a dark blue rectangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move a soft gray sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove a white box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move the dark gray triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete a deep red square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove four light gray triangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye one soft gray triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove the light red sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate the soft yellow cube",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye an red square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me remove the light red square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create a soft gray sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a dark red circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete the light orange box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move the soft purple rectangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate several soft blue circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me remove several orange rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create three light gray rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you remove one light white rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove a deep white cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a dark purple square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate the soft red square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye the light red box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move three soft black cube",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me move a light green box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate a light gray cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove four soft gray circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move five dark white box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move many deep blue circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate a dark yellow sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me move many orange square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye the black box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "create several soft red rectangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete a few dark white sphere",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye several light yellow box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move a deep yellow cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove a soft black square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete a deep green box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create a deep gray cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate a black sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye the orange sphere",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a few dark orange circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me move five light red sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create three light red cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create a light red triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete an orange triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me move one deep black cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate the dark orange box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate the light white circle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a soft purple cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a light green sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move a soft green triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete a deep green circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate three soft purple rectangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye many light blue cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete two deep blue cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you delete one dark gray cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete four soft blue triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate a dark purple square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "create several dark orange box",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create the light red sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move the deep blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me delete one soft yellow rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create the light orange box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye an light gray rectangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove several light green circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove several deep black cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye a few soft white square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a light white sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move five deep red square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create an deep gray circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye a deep purple box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate a dark blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate the dark orange cube",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create a soft black sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye a light blue circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create a deep black sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye several deep red circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me remove many dark blue box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove the soft red triangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate the black sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a light gray circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you delete the black square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you delete a dark gray square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me dye a dark yellow square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move the soft green square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate the soft yellow square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye one deep black rectangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a deep orange cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move the light red box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye a dark yellow sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete many dark green triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate the soft white triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you remove a light red square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create a dark purple cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you rotate two deep gray sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye two orange box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye five light red box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you remove the dark green circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate the dark blue rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me delete a soft yellow sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move many deep black circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create the soft black box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove a soft orange cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move many white sphere",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete the deep red triangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create the dark gray cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move a light white circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move the soft blue circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me remove many dark green triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate a purple box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you delete the white cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a deep white square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate three light black box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move a dark red box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me delete a dark purple triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate the dark yellow cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a soft green triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create a dark black rectangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create the deep blue cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me remove three light yellow box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye two blue circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me remove the deep yellow rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a soft red square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you rotate one dark green box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate five light green cube",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you dye the blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a green sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you remove one light orange box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate a light white box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move a dark green sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye a deep white box",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move an deep purple rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate the dark blue square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete several light black sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me remove a white square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a gray circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete a deep gray triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye a dark gray cube",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move three white circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate four gray square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move three white box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create a dark green triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me remove two light blue circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me remove some dark white sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move the soft green sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create a blue square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete a soft gray square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete four light red box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create a white box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me remove three green circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete the red circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me move the dark blue sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye four purple circle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye a soft gray sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove the deep red square",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove a orange square",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move the light purple box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a light orange box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move the gray rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create a few deep green rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove a soft red box",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me dye a soft orange triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove a red sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove four dark gray square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate a dark gray box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create three soft gray square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye a gray box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove the dark white circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete three light gray triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove an light blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate several deep white triangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create the soft purple sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye a light purple rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "delete a deep green rectangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move the light blue square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete a dark gray rectangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create several dark orange cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye a dark gray circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move many orange triangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create some light yellow rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move a black square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate a few white square",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove an gray cube",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove the dark blue box",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create a soft yellow rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please remove two soft purple square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate a soft green rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move two soft purple box",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate many light black box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move a black circle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you dye the soft black circle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me dye a deep blue square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you remove the light white cube",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete a purple box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create the deep gray cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove a gray box",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move the deep yellow circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "rotate many dark orange rectangle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete several red rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye some dark orange cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create two light yellow triangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye a soft gray square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move the dark blue box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "remove a dark white rectangle",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me dye a deep blue sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you dye a few dark orange square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move a few light red circle",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you delete a deep white box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate some blue box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me create a soft white cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate four soft purple box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye the purple square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you move the dark black rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye the deep blue sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me rotate the light red rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create a dark yellow triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate the light purple cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create a blue rectangle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a deep purple square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove three white box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move the orange box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me create a purple square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create four soft yellow cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move three blue sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me rotate the soft red box",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please delete several gray cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create four soft purple triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create the light green sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me remove a deep gray circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me delete three black sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move the deep blue square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move a soft gray sphere",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move several dark green square",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate a dark gray box",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "dye a orange sphere",
+    "tags": [
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please create the deep green circle",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me move several soft yellow circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create the dark yellow circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "move four orange cube",
+    "tags": [
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me delete a deep black square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please rotate five dark black cube",
+    "tags": [
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please move the deep gray sphere",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you create several soft blue triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye a deep orange circle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you create three gray rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you move a dark red sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me delete a light purple rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me create a dark yellow rectangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you rotate the red rectangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move the blue square",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "can you remove four white triangle",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me dye an light gray triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please help me move some soft black triangle",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "please dye a dark purple square",
+    "tags": [
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "could you help me move two soft yellow cube",
+    "tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CMD",
+      "B-QUANTITY",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  },
+  {
+    "text": "help me rotate a soft blue sphere",
+    "tags": [
+      "O",
+      "O",
+      "B-CMD",
+      "O",
+      "B-ATTR",
+      "I-ATTR",
+      "B-OBJ"
+    ]
+  }
+]
